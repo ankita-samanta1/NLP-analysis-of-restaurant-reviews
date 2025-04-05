@@ -13,7 +13,9 @@ File Type: .tsv (Tab-Separated Values)
 
 Columns:
 Review: Textual review written by a customer.
+
 Liked: Target label (1 = Positive, 0 = Negative)
+
 This dataset provides a practical foundation for building models that understand and classify human sentiments based on natural language.
 
 
