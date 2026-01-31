@@ -7,12 +7,16 @@ The solution follows a structured NLP pipeline including text preprocessing, TF-
 Key Highlights:
 
 Text preprocessing using NLTK (cleaning, stopword removal, lemmatization)
+
 TF-IDF vectorization with unigram and bigram features
+
 Model training and tuning using:
 Multinomial Naive Bayes
 Logistic Regression
 Linear Support Vector Machine (SVM)
+
 Model evaluation using accuracy, F1-score, ROC-AUC, and confusion matrix
+
 Interpretability through analysis of sentiment-indicative words
 
 Tech Stack:
